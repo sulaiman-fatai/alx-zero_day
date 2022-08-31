@@ -1,9 +1,2 @@
-git status check the status of your work
+git pull
 
-git add . 
-
-git status check the status of your work if the previous works has been added.
-
-git commit -m 'How to be up to date in git' (enter)
-
-git push
